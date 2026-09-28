@@ -1,17 +1,16 @@
-# ente-photos-referral-code
-Ente Photos referral code QUACK: get 10 GB extra free storage on the encrypted Google Photos alternative
-
 # Get 10 GB Free on Ente Photos: Referral Code QUACK
 
-Use referral code **`QUACK`** when signing up for [Ente Photos](https://ente.com/app) to get **10 GB of free bonus storage** on top of the standard free tier.
+> Disclosure: this is my personal referral code. I get bonus storage if you sign up with it and upgrade to a paid plan.
+
+Use referral code **`QUACK`** when signing up for [Ente Photos](https://ente.com/download/) to get **10 GB of extra free storage** on top of the standard free tier.
 
 ## How to claim
 
-1. Download Ente Photos: https://ente.com/app
+1. Download Ente Photos: https://ente.com/download/
 2. Create an account
 3. Go to **Settings → Referrals**
 4. Enter code **`QUACK`**
-5. 10 GB added to your account
+5. Get an extra 10 GB of storage
 
 ---
 
@@ -70,4 +69,4 @@ Don't want to rely on Ente's servers at all? You can run the entire stack yourse
 
 **Settings → Referrals → Enter `QUACK`**
 
-https://ente.com/app
+https://ente.com/download/
